@@ -1,0 +1,1 @@
+This is the colab spaces created in the course 'Funciones Matematicas para Data Science e Inteligencia Artificial' -Platzi.
